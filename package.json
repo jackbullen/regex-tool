@@ -1,5 +1,6 @@
 {
   "name": "regex-tool",
+  "homepage": "https://jackbullen.github.io/regex-tool/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +12,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://jackbullen.github.io/regex-tool/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
